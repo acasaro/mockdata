@@ -1,14 +1,65 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "Header": {
+        "public": {
+            "logoImageSource": "",
+            "logoImageLink": "/",
+            "button": {
+                "title": "Post New Job",
+                "link": "/"
+            },
+            "navigation": [
+                {
+                    "title": "Explore Companies.",
+                    "link": "/"
+                },
+                {
+                    "title": "Search Jobs",
+                    "link": "/"
+                },
+                {
+                    "title": "Find Professionals.",
+                    "link": "/"
+                },
+                {
+                    "title": "Register.",
+                    "link": "/"
+                },
+                {
+                    "title": "Welcome.",
+                    "link": "/"
+                }
+            ]
+        },
+        "secure": {
+            "imageSource": "/content/dam/OptumDashboard/hero_img/MainImage_GirlsSmiling.jpg",
+            "headline": {
+                "line1": "Hello, {{firstName}}.",
+                "line2": "Here's your snapshot for today."
+            }
+        }
+    },
+    "hero": {
+        "secure": {
+            "imageSource": "",
+            "headline": {
+                "line1": "Powering the Clean Energy Professional Network",
+                "line2": "",
+                "buttonPrimary": "Join for free"
+            },
+            "NavBar": [
+                {
+                    "ButtonTitle": "Explore Companies",
+                    "Buttonlink": ""
+                },
+                {
+                    "ButtonTitle": "Browse Open Jobs",
+                    "Buttonlink": ""
+                },
+                {
+                    "ButtonTitle": "Find Professionals",
+                    "Buttonlink": ""
+                }
+            ]
+        }
+    }
 }
