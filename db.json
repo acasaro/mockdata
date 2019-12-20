@@ -62,7 +62,7 @@
             "line2": "",
             "buttonPrimary": "Join for free"
         },
-        "NavBar": [
+        "navbar": [
             {
                 "ButtonTitle": "Explore Companies",
                 "Buttonlink": ""
