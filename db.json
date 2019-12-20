@@ -56,27 +56,25 @@
         }
     },
     "hero": {
-        "secure": {
-            "imageSource": "",
-            "headline": {
-                "line1": "Powering the Clean Energy Professional Network",
-                "line2": "",
-                "buttonPrimary": "Join for free"
+        "imageSource": "",
+        "headline": {
+            "line1": "Powering the Clean Energy Professional Network",
+            "line2": "",
+            "buttonPrimary": "Join for free"
+        },
+        "NavBar": [
+            {
+                "ButtonTitle": "Explore Companies",
+                "Buttonlink": ""
             },
-            "NavBar": [
-                {
-                    "ButtonTitle": "Explore Companies",
-                    "Buttonlink": ""
-                },
-                {
-                    "ButtonTitle": "Browse Open Jobs",
-                    "Buttonlink": ""
-                },
-                {
-                    "ButtonTitle": "Find Professionals",
-                    "Buttonlink": ""
-                }
-            ]
-        }
+            {
+                "ButtonTitle": "Browse Open Jobs",
+                "Buttonlink": ""
+            },
+            {
+                "ButtonTitle": "Find Professionals",
+                "Buttonlink": ""
+            }
+        ]
     }
 }
