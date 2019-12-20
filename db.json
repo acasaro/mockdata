@@ -1,12 +1,12 @@
 {
-    "header": {
+    "Header": {
+        "logoImageSource": "",
+        "logoImageLink": "/",
+        "button": {
+            "title": "Post New Job",
+            "link": "/"
+        },
         "public": {
-            "logoImageSource": "",
-            "logoImageLink": "/",
-            "button": {
-                "title": "Post New Job",
-                "link": "/"
-            },
             "navigation": [
                 {
                     "title": "Explore Companies.",
@@ -31,12 +31,28 @@
             ]
         },
         "secure": {
-            "imageSource": "/content/dam/OptumDashboard/hero_img/MainImage_GirlsSmiling.jpg",
-            "headline": {
-                "line1": "Hello, {{firstName}}.",
-                "line2": "Here's your snapshot for today."
-            }
-        }
+            "navigation": [
+                {
+                    "title": "Explore Companies.",
+                    "link": "/"
+                },
+                {
+                    "title": "Search Jobs",
+                    "link": "/"
+                },
+                {
+                    "title": "Find Professionals.",
+                    "link": "/"
+                },
+                {
+                    "title": "Register.",
+                    "link": "/"
+                },
+                {
+                    "title": "Welcome.",
+                    "link": "/"
+                }
+            ]
     },
     "hero": {
         "secure": {
