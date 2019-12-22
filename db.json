@@ -3,32 +3,32 @@
         "logoImageSource": "",
         "logoImageLink": "/",
         "button": {
-            "title": "Post New Job",
-            "link": "/"
+            "title": "For Employers",
+            "link": "/public/employers"
         },
         "public": {
             "navigation": [
                 {
-                    "title": "Explore Companies.",
-                    "link": "/"
+                    "title": "Companies",
+                    "link": "/public/companies"
                 },
                 {
-                    "title": "Search Jobs",
-                    "link": "/"
+                    "title": "Jobs",
+                    "link": "/public/jobs"
                 },
                 {
-                    "title": "Find Professionals.",
-                    "link": "/"
+                    "title": "Professionals",
+                    "link": "/public/professionals"
                 },
                 {
-                    "title": "Register.",
-                    "link": "/"
+                    "title": "Discuss",
+                    "link": "/public/discuss"
                 },
                 {
-                    "title": "Welcome.",
-                    "link": "/"
+                    "title": "News",
+                    "link": "/public/news"
                 }
-            ]
+            ]    
         },
         "secure": {
             "navigation": [
