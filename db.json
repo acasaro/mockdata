@@ -64,16 +64,16 @@
         },
         "navbar": [
             {
-                "ButtonTitle": "Explore Companies",
-                "Buttonlink": ""
+                "buttonTitle": "Explore Companies",
+                "buttonlink": "/public/companies"
             },
             {
-                "ButtonTitle": "Browse Open Jobs",
-                "Buttonlink": ""
+                "buttonTitle": "Browse Open Jobs",
+                "buttonlink": "/public/jobs"
             },
             {
-                "ButtonTitle": "Find Professionals",
-                "Buttonlink": ""
+                "buttonTitle": "Find Professionals",
+                "buttonlink": "/public/professionals"
             }
         ]
     }
