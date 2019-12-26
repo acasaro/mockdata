@@ -77,81 +77,83 @@
             }
         ]
     },
-    "featuredJobCategories": [
-        {
-            "title": "Sales & Finance",
-            "availableJobs": 322
-        },
-        {
-            "title": "Engineering",
-            "availableJobs": 322
-        },
-        {
-            "title": "Construction",
-            "availableJobs": 322
-        },
-        {
-            "title": "Information Technology",
-            "availableJobs": 322
-        },
-        {
-            "title": "Project Managment",
-            "availableJobs": 322
-        },
-        {
-            "title": "Business Development",
-            "availableJobs": 322
-        }
-    ],
-    "featuredJobs": [
-        {
-            "position": "Engineering Director",
-            "fullTime": true,
-            "location": "Austin, TX",
-            "datePosted": "12/26/19",
-            "employer": "ASMC",
-            "employerImage": ""
-        },
-        {
-            "position": "Senior Data Engineer",
-            "fullTime": true,
-            "location": "Boston, MA",
-            "datePosted": "12/26/19",
-            "employer": "General Electric",
-            "employerImage": ""
-        },
-        {
-            "position": "Sr. Machanical Engineer",
-            "fullTime": true,
-            "location": "Austin, TX",
-            "datePosted": "12/26/19",
-            "employer": "Siemens",
-            "employerImage": ""
-        },
+    "featured": {
+        "featuredJobCategories": [
+            {
+                "title": "Sales & Finance",
+                "availableJobs": 322
+            },
+            {
+                "title": "Engineering",
+                "availableJobs": 322
+            },
+            {
+                "title": "Construction",
+                "availableJobs": 322
+            },
+            {
+                "title": "Information Technology",
+                "availableJobs": 322
+            },
+            {
+                "title": "Project Managment",
+                "availableJobs": 322
+            },
+            {
+                "title": "Business Development",
+                "availableJobs": 322
+            }
+        ],
+        "featuredJobs": [
+            {
+                "position": "Engineering Director",
+                "fullTime": true,
+                "location": "Austin, TX",
+                "datePosted": "12/26/19",
+                "employer": "ASMC",
+                "employerImage": ""
+            },
+            {
+                "position": "Senior Data Engineer",
+                "fullTime": true,
+                "location": "Boston, MA",
+                "datePosted": "12/26/19",
+                "employer": "General Electric",
+                "employerImage": ""
+            },
+            {
+                "position": "Sr. Machanical Engineer",
+                "fullTime": true,
+                "location": "Austin, TX",
+                "datePosted": "12/26/19",
+                "employer": "Siemens",
+                "employerImage": ""
+            },
 
-        {
-            "position": "Product Manager",
-            "fullTime": true,
-            "location": "San Antonio, CA",
-            "datePosted": "12/26/19",
-            "employer": "Tesla",
-            "employerImage": ""
-        },
-        {
-            "position": "Sr. Construction Estimator",
-            "fullTime": true,
-            "location": "Austin, TX",
-            "datePosted": "12/26/19",
-            "employer": "Power Home Solar",
-            "employerImage": ""
-        },
-        {
-            "position": "Engineering Asst. S Data Engineer",
-            "fullTime": true,
-            "location": "Austin, TX",
-            "datePosted": "12/26/19",
-            "employer": "General Electric",
-            "employerImage": ""
-        }
-    ]
+            {
+                "position": "Product Manager",
+                "fullTime": true,
+                "location": "San Antonio, CA",
+                "datePosted": "12/26/19",
+                "employer": "Tesla",
+                "employerImage": ""
+            },
+            {
+                "position": "Sr. Construction Estimator",
+                "fullTime": true,
+                "location": "Austin, TX",
+                "datePosted": "12/26/19",
+                "employer": "Power Home Solar",
+                "employerImage": ""
+            },
+            {
+                "position": "Engineering Asst. S Data Engineer",
+                "fullTime": true,
+                "location": "Austin, TX",
+                "datePosted": "12/26/19",
+                "employer": "General Electric",
+                "employerImage": ""
+            }
+        ]
+    }
 }
