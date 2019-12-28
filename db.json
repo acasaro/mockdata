@@ -81,27 +81,33 @@
         "featuredJobCategories": [
             {
                 "title": "Sales & Finance",
-                "availableJobs": 322
+                "availableJobs": 322,
+                "icon": "FinanceIcon"
             },
             {
                 "title": "Engineering",
-                "availableJobs": 322
+                "availableJobs": 322,
+                "icon": "EngineeringIcon"
             },
             {
                 "title": "Construction",
-                "availableJobs": 322
+                "availableJobs": 322,
+                "icon": "ConstructionIcon"
             },
             {
                 "title": "Information Technology",
-                "availableJobs": 322
+                "availableJobs": 322,
+                "icon": "TechnologyIcon"
             },
             {
                 "title": "Project Managment",
-                "availableJobs": 322
+                "availableJobs": 322,
+                "icon": "ManagmentIcon"
             },
             {
                 "title": "Business Development",
-                "availableJobs": 322
+                "availableJobs": 322,
+                "icon": "BusinessIcon"
             }
         ],
         "featuredJobs": [
@@ -111,7 +117,7 @@
                 "location": "Austin, TX",
                 "datePosted": "12/26/19",
                 "employer": "ASMC",
-                "employerImage": ""
+                "employerImage": "ASMC"
             },
             {
                 "position": "Senior Data Engineer",
@@ -119,7 +125,7 @@
                 "location": "Boston, MA",
                 "datePosted": "12/26/19",
                 "employer": "General Electric",
-                "employerImage": ""
+                "employerImage": "GeneralElectric"
             },
             {
                 "position": "Sr. Machanical Engineer",
@@ -127,7 +133,7 @@
                 "location": "Austin, TX",
                 "datePosted": "12/26/19",
                 "employer": "Siemens",
-                "employerImage": ""
+                "employerImage": "Siemens"
             },
 
             {
@@ -136,7 +142,7 @@
                 "location": "San Antonio, CA",
                 "datePosted": "12/26/19",
                 "employer": "Tesla",
-                "employerImage": ""
+                "employerImage": "Tesla"
             },
             {
                 "position": "Sr. Construction Estimator",
@@ -144,7 +150,7 @@
                 "location": "Austin, TX",
                 "datePosted": "12/26/19",
                 "employer": "Power Home Solar",
-                "employerImage": ""
+                "employerImage": "PowerSolar"
             },
             {
                 "position": "Engineering Asst. S Data Engineer",
@@ -152,7 +158,7 @@
                 "location": "Austin, TX",
                 "datePosted": "12/26/19",
                 "employer": "General Electric",
-                "employerImage": ""
+                "employerImage": "GeneralElectric"
             }
         ]
     }
