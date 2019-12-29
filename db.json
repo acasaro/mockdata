@@ -116,8 +116,8 @@
                 "fullTime": true,
                 "location": "Austin, TX",
                 "datePosted": "12/26/19",
-                "employer": "ASMC",
-                "employerImage": "https://www.solarreviews.com/content/company/5144406c81a7da2c43714fb5e81bbaf8fcf5/logo/BlueRaven-Logo-FINAL-onWhite.png"
+                "employer": "Blue Raven",
+                "employerImage": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png"
             },
             {
                 "position": "Senior Data Engineer",
@@ -125,7 +125,7 @@
                 "location": "Boston, MA",
                 "datePosted": "12/26/19",
                 "employer": "General Electric",
-                "employerImage": "https://upload.wikimedia.org/wikipedia/commons/f/ff/General_Electric_logo.svg"
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/gm_avatar.png?raw=true"
             },
             {
                 "position": "Sr. Machanical Engineer",
@@ -133,7 +133,7 @@
                 "location": "Austin, TX",
                 "datePosted": "12/26/19",
                 "employer": "Siemens",
-                "employerImage": "https://new.siemens.com/etc.clientlibs/siemens-sites/components/content/header/clientlibs/resources/logo/siemens-logo-default.svg"
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/siemens_avatar.png?raw=true"
             },
 
             {
@@ -142,7 +142,7 @@
                 "location": "San Antonio, CA",
                 "datePosted": "12/26/19",
                 "employer": "Tesla",
-                "employerImage": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg"
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/tesla_avatar.png?raw=true"
             },
             {
                 "position": "Sr. Construction Estimator",
@@ -150,7 +150,7 @@
                 "location": "Austin, TX",
                 "datePosted": "12/26/19",
                 "employer": "Power Home Solar",
-                "employerImage": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/6e06978c8e6f03f9e09849fdbb7d4229"
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/powerhomesolar_avatar.png?raw=true"
             },
             {
                 "position": "Engineering Asst. S Data Engineer",
@@ -158,7 +158,7 @@
                 "location": "Austin, TX",
                 "datePosted": "12/26/19",
                 "employer": "General Electric",
-                "employerImage": "https://upload.wikimedia.org/wikipedia/commons/f/ff/General_Electric_logo.svg"
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/gm_avatar.png?raw=true"
             }
         ]
     }
