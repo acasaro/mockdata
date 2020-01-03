@@ -78,88 +78,92 @@
         ]
     },
     "featured": {
-        "featuredJobCategories": [
-            {
-                "title": "Sales & Finance",
-                "availableJobs": 322,
-                "icon": "FinanceIcon"
-            },
-            {
-                "title": "Engineering",
-                "availableJobs": 322,
-                "icon": "EngineeringIcon"
-            },
-            {
-                "title": "Construction",
-                "availableJobs": 322,
-                "icon": "ConstructionIcon"
-            },
-            {
-                "title": "Information Technology",
-                "availableJobs": 322,
-                "icon": "TechnologyIcon"
-            },
-            {
-                "title": "Project Managment",
-                "availableJobs": 322,
-                "icon": "ManagmentIcon"
-            },
-            {
-                "title": "Business Development",
-                "availableJobs": 322,
-                "icon": "BusinessIcon"
-            }
-        ],
-        "featuredJobs": [
-            {
-                "position": "Engineering Director",
-                "fullTime": true,
-                "location": "Austin, TX",
-                "datePosted": "12/26/19",
-                "employer": "Blue Raven",
-                "employerImage": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png"
-            },
-            {
-                "position": "Senior Data Engineer",
-                "fullTime": true,
-                "location": "Boston, MA",
-                "datePosted": "12/26/19",
-                "employer": "General Electric",
-                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/gm_avatar.png?raw=true"
-            },
-            {
-                "position": "Sr. Machanical Engineer",
-                "fullTime": true,
-                "location": "Austin, TX",
-                "datePosted": "12/26/19",
-                "employer": "Siemens",
-                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/siemens_avatar.png?raw=true"
-            },
+        "jobs": {
+            "categories": [
+                {
+                    "title": "Sales & Finance",
+                    "availableJobs": 322,
+                    "icon": "FinanceIcon"
+                },
+                {
+                    "title": "Engineering",
+                    "availableJobs": 322,
+                    "icon": "EngineeringIcon"
+                },
+                {
+                    "title": "Construction",
+                    "availableJobs": 322,
+                    "icon": "ConstructionIcon"
+                },
+                {
+                    "title": "Information Technology",
+                    "availableJobs": 322,
+                    "icon": "TechnologyIcon"
+                },
+                {
+                    "title": "Project Managment",
+                    "availableJobs": 322,
+                    "icon": "ManagmentIcon"
+                },
+                {
+                    "title": "Business Development",
+                    "availableJobs": 322,
+                    "icon": "BusinessIcon"
+                }
+            ],
+            "listings": [
+                {
+                    "position": "Engineering Director",
+                    "fullTime": true,
+                    "location": "Austin, TX",
+                    "datePosted": "12/26/19",
+                    "employer": "Blue Raven",
+                    "employerImage": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png"
+                },
+                {
+                    "position": "Senior Data Engineer",
+                    "fullTime": true,
+                    "location": "Boston, MA",
+                    "datePosted": "12/26/19",
+                    "employer": "General Electric",
+                    "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/gm_avatar.png?raw=true"
+                },
+                {
+                    "position": "Sr. Machanical Engineer",
+                    "fullTime": true,
+                    "location": "Austin, TX",
+                    "datePosted": "12/26/19",
+                    "employer": "Siemens",
+                    "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/siemens_avatar.png?raw=true"
+                },
 
-            {
-                "position": "Product Manager",
-                "fullTime": true,
-                "location": "San Antonio, CA",
-                "datePosted": "12/26/19",
-                "employer": "Tesla",
-                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/tesla_avatar.png?raw=true"
-            },
-            {
-                "position": "Sr. Construction Estimator",
-                "fullTime": true,
-                "location": "Austin, TX",
-                "datePosted": "12/26/19",
-                "employer": "Power Home Solar",
-                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/powerhomesolar_avatar.png?raw=true"
-            },
-            {
-                "position": "Engineering Asst. S Data Engineer",
-                "fullTime": true,
-                "location": "Austin, TX",
-                "datePosted": "12/26/19",
-                "employer": "General Electric",
-                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/gm_avatar.png?raw=true"
-            }
-        ]
+                {
+                    "position": "Product Manager",
+                    "fullTime": true,
+                    "location": "San Antonio, CA",
+                    "datePosted": "12/26/19",
+                    "employer": "Tesla",
+                    "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/tesla_avatar.png?raw=true"
+                },
+                {
+                    "position": "Sr. Construction Estimator",
+                    "fullTime": true,
+                    "location": "Austin, TX",
+                    "datePosted": "12/26/19",
+                    "employer": "Power Home Solar",
+                    "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/powerhomesolar_avatar.png?raw=true"
+                },
+                {
+                    "position": "Engineering Asst. S Data Engineer",
+                    "fullTime": true,
+                    "location": "Austin, TX",
+                    "datePosted": "12/26/19",
+                    "employer": "General Electric",
+                    "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/gm_avatar.png?raw=true"
+                }
+            ]
+        },
+        "blog": {},
+        "companies": {}
     }
 }
