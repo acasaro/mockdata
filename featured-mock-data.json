@@ -1,0 +1,153 @@
+{
+    "jobs": {
+        "categories": [
+            {
+                "title": "Sales & Finance",
+                "availableJobs": 322,
+                "icon": "FinanceIcon"
+            },
+            {
+                "title": "Engineering",
+                "availableJobs": 322,
+                "icon": "EngineeringIcon"
+            },
+            {
+                "title": "Construction",
+                "availableJobs": 322,
+                "icon": "ConstructionIcon"
+            },
+            {
+                "title": "Information Technology",
+                "availableJobs": 322,
+                "icon": "TechnologyIcon"
+            },
+            {
+                "title": "Project Managment",
+                "availableJobs": 322,
+                "icon": "ManagmentIcon"
+            },
+            {
+                "title": "Business Development",
+                "availableJobs": 322,
+                "icon": "BusinessIcon"
+            }
+        ],
+        "listings": [
+            {
+                "position": "Engineering Director",
+                "fullTime": true,
+                "location": "Austin, TX",
+                "datePosted": "12/26/19",
+                "employer": "Blue Raven",
+                "employerImage": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png"
+            },
+            {
+                "position": "Senior Data Engineer",
+                "fullTime": true,
+                "location": "Boston, MA",
+                "datePosted": "12/26/19",
+                "employer": "General Electric",
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/gm_avatar.png?raw=true"
+            },
+            {
+                "position": "Sr. Machanical Engineer",
+                "fullTime": true,
+                "location": "Austin, TX",
+                "datePosted": "12/26/19",
+                "employer": "Siemens",
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/siemens_avatar.png?raw=true"
+            },
+
+            {
+                "position": "Product Manager",
+                "fullTime": true,
+                "location": "San Antonio, CA",
+                "datePosted": "12/26/19",
+                "employer": "Tesla",
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/tesla_avatar.png?raw=true"
+            },
+            {
+                "position": "Sr. Construction Estimator",
+                "fullTime": true,
+                "location": "Austin, TX",
+                "datePosted": "12/26/19",
+                "employer": "Power Home Solar",
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/powerhomesolar_avatar.png?raw=true"
+            },
+            {
+                "position": "Engineering Asst. S Data Engineer",
+                "fullTime": true,
+                "location": "Austin, TX",
+                "datePosted": "12/26/19",
+                "employer": "General Electric",
+                "employerImage": "https://github.com/acasaro/mockdata/blob/master/images/gm_avatar.png?raw=true"
+            }
+        ]
+    },
+    "blog": {},
+    "companies": [
+        {
+            "name": "BombBomb",
+            "availableJobs": 2,
+            "favorited": false,
+            "location": "Austin, TX",
+            "featured_media": "https://images.unsplash.com/photo-1519756301029-33fef7098ba4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2200&q=80",
+            "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+            "tags": ["Hydro", "Solar", "Energy Efficiency"]
+        },
+        {
+            "name": "HomeAdvisor",
+            "availableJobs": 12,
+            "favorited": false,
+            "location": "Phoenix, AZ",
+            "featured_media": "https://images.unsplash.com/photo-1516216628859-9bccecab13ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1949&q=80",
+            "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+            "tags": ["Hydro", "Solar", "Energy Efficiency"]
+        },
+        {
+            "name": "Zen Planner",
+            "availableJobs": 0,
+            "favorited": true,
+            "location": "Phoenix, AZ",
+            "featured_media": "https://images.unsplash.com/photo-1558227691-41ea78d1f631?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+            "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+            "tags": ["Hydro", "Energy Efficiency"]
+        },
+        {
+            "name": "ThriveHive",
+            "availableJobs": 0,
+            "favorited": true,
+            "location": "Charlotte, NC",
+            "featured_media": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80",
+            "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+            "tags": ["Hydro", "Energy Efficiency"]
+        },
+        {
+            "name": "PlayerLync",
+            "availableJobs": 16,
+            "favorited": false,
+            "location": "Detroit, MI",
+            "featured_media": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+            "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+            "tags": ["Solar"]
+        },
+        {
+            "name": "OrthoFit",
+            "availableJobs": 0,
+            "favorited": false,
+            "location": "Phoenix, AZ",
+            "featured_media": "https://images.unsplash.com/photo-1532498551838-b7a1cfac622e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+            "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+            "tags": ["Solar", "Energy Efficiency"]
+        },
+        {
+            "name": "Skupos",
+            "availableJobs": 3,
+            "favorited": true,
+            "location": "Phoenix, AZ",
+            "featured_media": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2389&q=80",
+            "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+            "tags": ["Solar", "Energy Efficiency"]
+        }
+    ]
+}
