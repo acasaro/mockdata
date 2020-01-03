@@ -164,6 +164,70 @@
             ]
         },
         "blog": {},
-        "companies": {}
+        "companies": [
+            {
+                "name": "BombBomb",
+                "availableJobs": 2,
+                "favorited": false,
+                "location": "Austin, TX",
+                "featured_image": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "tags": ["Hydro", "Solar", "Energy Efficiency"]
+            },
+            {
+                "name": "HomeAdvisor",
+                "availableJobs": 12,
+                "favorited": false,
+                "location": "Phoenix, AZ",
+                "featured_image": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "tags": ["Hydro", "Solar", "Energy Efficiency"]
+            },
+            {
+                "name": "Zen Planner",
+                "availableJobs": 0,
+                "favorited": true,
+                "location": "Phoenix, AZ",
+                "featured_image": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "tags": ["Hydro", "Energy Efficiency"]
+            },
+            {
+                "name": "ThriveHive",
+                "availableJobs": 0,
+                "favorited": true,
+                "location": "Charlotte, NC",
+                "featured_image": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "tags": ["Hydro", "Energy Efficiency"]
+            },
+            {
+                "name": "PlayerLync",
+                "availableJobs": 16,
+                "favorited": false,
+                "location": "Detroit, MI",
+                "featured_image": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "tags": ["Solar"]
+            },
+            {
+                "name": "OrthoFit",
+                "availableJobs": 0,
+                "favorited": false,
+                "location": "Phoenix, AZ",
+                "featured_image": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "tags": ["Solar", "Energy Efficiency"]
+            },
+            {
+                "name": "Skupos",
+                "availableJobs": 3,
+                "favorited": true,
+                "location": "Phoenix, AZ",
+                "featured_image": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "employer_icon": "https://raw.githubusercontent.com/acasaro/mockdata/master/images/blueraven_avatar.png",
+                "tags": ["Solar", "Energy Efficiency"]
+            }
+        ]
     }
 }
