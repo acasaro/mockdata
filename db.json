@@ -231,43 +231,114 @@
         ]
     },
     "footer": {
-        "navigation": [
-            {
-                "link_name": "",
-                "url": ""
+        "legal": {
+            "mission": "Our mission is to help clean energy companies more efficiently connect with qualified professionals, creating a cleaner planet, one job at a time."
+        },
+        "navigation": {
+            "jobs": {
+                "section_title": "Jobs",
+                "links": [
+                    {
+                        "title": "Sales",
+                        "link": ""
+                    },
+                    {
+                        "title": "Enginering",
+                        "link": ""
+                    },
+                    {
+                        "title": "Project Managment",
+                        "link": ""
+                    },
+                    {
+                        "title": "Information Technology",
+                        "link": ""
+                    },
+                    {
+                        "title": "Business Development",
+                        "link": ""
+                    },
+                    {
+                        "title": "Accounting & Finance",
+                        "link": ""
+                    },
+                    {
+                        "title": "Construction",
+                        "link": ""
+                    },
+                    {
+                        "title": "Operations",
+                        "link": ""
+                    }
+                ]
             },
-            {
-                "link_name": "",
-                "url": ""
+            "professionals": {
+                "section_title": "Professionals",
+                "links": [
+                    {
+                        "title": "Professionals Dashboard",
+                        "link": ""
+                    },
+                    {
+                        "title": "Explore Companies",
+                        "link": ""
+                    }
+                ]
             },
-            {
-                "link_name": "",
-                "url": ""
+            "companies": {
+                "section_title": "Companies",
+                "links": [
+                    {
+                        "title": "Post New Job",
+                        "link": ""
+                    },
+                    {
+                        "title": "Find Professionals",
+                        "link": ""
+                    },
+                    {
+                        "title": "Company Dashboard",
+                        "link": ""
+                    }
+                ]
             },
-            {
-                "link_name": "",
-                "url": ""
-            },
-            {
-                "link_name": "",
-                "url": ""
-            },
-            {
-                "link_name": "",
-                "url": ""
-            },
-            {
-                "link_name": "",
-                "url": ""
-            },
-            {
-                "link_name": "",
-                "url": ""
-            },
-            {
-                "link_name": "",
-                "url": ""
+            "site": {
+                "section_title": "Site",
+                "links": [
+                    {
+                        "title": "News",
+                        "link": ""
+                    },
+                    {
+                        "title": "Discuss",
+                        "link": ""
+                    },
+                    {
+                        "title": "About Us",
+                        "link": ""
+                    },
+                    {
+                        "title": "Contact Us",
+                        "link": ""
+                    },
+                    {
+                        "title": "Privacy Policy",
+                        "link": ""
+                    },
+                    {
+                        "title": "Terms of Use",
+                        "link": ""
+                    },
+                    {
+                        "title": "Register",
+                        "link": ""
+                    },
+                    {
+                        "title": "Sign in",
+                        "link": ""
+                    }
+                ]
             }
-        ]
+        }
     }
 }
