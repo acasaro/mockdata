@@ -229,5 +229,45 @@
                 "tags": ["Solar", "Energy Efficiency"]
             }
         ]
+    },
+    "footer": {
+        "navigation": [
+            {
+                "link_name": "",
+                "url": ""
+            },
+            {
+                "link_name": "",
+                "url": ""
+            },
+            {
+                "link_name": "",
+                "url": ""
+            },
+            {
+                "link_name": "",
+                "url": ""
+            },
+            {
+                "link_name": "",
+                "url": ""
+            },
+            {
+                "link_name": "",
+                "url": ""
+            },
+            {
+                "link_name": "",
+                "url": ""
+            },
+            {
+                "link_name": "",
+                "url": ""
+            },
+            {
+                "link_name": "",
+                "url": ""
+            }
+        ]
     }
 }
